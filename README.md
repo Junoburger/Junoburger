@@ -30,6 +30,6 @@
 
 ### GitHub Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Junoburger)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Junoburger&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://linkedin.com/in/juno-burger
