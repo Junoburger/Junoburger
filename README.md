@@ -25,12 +25,10 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junoburger&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junoburger&layout=compact&hide_border=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### GitHub Stats
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Junoburger&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Junoburger&show_icons=true&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://linkedin.com/in/juno-burger
