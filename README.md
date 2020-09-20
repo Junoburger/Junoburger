@@ -1,4 +1,5 @@
-# About me
+About me
+===
 
 ##### Hello there! My name is Juno, Frontend Engineer at Bynder.
 
