@@ -27,9 +27,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junoburger&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
-<br>
-
 ---
 
 ### GitHub Stats
