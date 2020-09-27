@@ -27,6 +27,16 @@
 <br>
 <br>
 
+---
+
+### Currently learning
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][linkedin]
+
+---
+
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junoburger&layout=compact&hide_border=true&theme=onedark&hide_title=true&langs_count=10&count_private=true&card_width=440)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
